@@ -1,0 +1,99 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    height: 250px;
+    width: cover;
+    color: black;
+    background-image: url(../images/1000_F_576330110_1hUHTAM84N9QI7Q8YyrfhSz6MCIh7SmT.jpg);
+    background-position: fixed;
+    background-size: cover;
+}
+ .name{
+    color: aliceblue;
+    float: left 20px; 
+    margin-left: 50px;
+    font-size: medium;
+    padding: 40px;
+   }
+
+body{
+    background-image: url(../images/clean-clean-background-blur-green.jpg);
+    background-position: fixed;
+    background-size: cover;
+}
+
+
+   img{
+    float: left;
+    margin-left: 110px;
+    }
+
+.hd{ float: right;
+    margin-right: 50px;
+    padding-left: 30px;
+    margin-top: 10px;
+    }
+
+.hd a{
+color: aliceblue;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-decoration: none;
+font-size: larger;
+border: solid 1px white;
+padding: 15px;
+margin-left: 85px;
+}
+
+h2{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: rgb(179, 50, 50);
+text-align: left;
+text-decoration-line: underline;
+}
+
+div{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: large;
+}
+
+.d{margin-left: 20px;
+    margin-right: 10px;
+    text-shadow: 50px;
+}
+
+.c{
+    margin-left: 20px;
+    margin-right: 10px;
+    text-shadow: 50px;
+}
+
+.b{margin-left: 20px;
+    margin-right: 10px;
+    text-shadow: 50px;
+    
+}
+ 
+.a{margin-left: 20px;
+    margin-right: 10px;
+    text-shadow: 50px;
+
+}
+
+.o{
+    
+}
+.z{
+    margin-left: 20px;
+    margin-right: 650px;
+text-shadow: 50px;
+}
+
+footer{
+text-align: center;
+color: rgb(247, 250, 252);
+font-size: 20px;
+background-color: rgb(2, 20, 14);
+}
